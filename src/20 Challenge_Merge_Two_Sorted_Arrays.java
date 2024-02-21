@@ -1,4 +1,4 @@
-public class Challenge19_Merge_Two_Sorted_Arrays {
+class MergeTwoSortedArrays {
     public static void main(String[] args) {
         int[] arr1 = ArrayUtility.inputArray();
         int[] arr2 = ArrayUtility.inputArray();

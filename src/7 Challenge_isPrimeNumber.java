@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge7_isPrimeNumber {
+class isPrimeNumber {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         System.out.print("Check Prime Number\n");

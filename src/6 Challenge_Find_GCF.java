@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge6_Find_GCF {
+class FindGCF {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         System.out.print("Find GCF\n");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge8_Reverse_Num_Digits {
+class ReverseNumDigits {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         System.out.print("Reverse Any Number\n");

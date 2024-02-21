@@ -1,7 +1,6 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Challenge14BySir {
+class FindOccurrenceOfAnElement {
     public static void main(String[] args) {
         int[] userArray = ArrayUtility.inputArray();
         Scanner userInput = new Scanner(System.in);

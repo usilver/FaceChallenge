@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge4_Digit_Square_Sum_Of_An_Integer {
+class DigitSquareSumOfAnInteger {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         System.out.println("Please enter number");

@@ -1,4 +1,4 @@
-public class Challenge15_Maximum$Minimum {
+class Maximum$Minimum {
     public static void main(String[] args) {
         int[] userArray = ArrayUtility.inputArray();
         if (userArray.length == 0) return;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge9_Fibonacci_Series {
+class FindFibonacciSeries {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         System.out.print("Fibonacci Series:\n");

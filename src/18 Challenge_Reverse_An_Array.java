@@ -1,4 +1,4 @@
-public class Challenge17_Reverse_An_Array {
+class ReverseAnArray {
     public static void main(String[] args) {
         int[] myArray = ArrayUtility.inputArray();
         reverseArray(myArray);

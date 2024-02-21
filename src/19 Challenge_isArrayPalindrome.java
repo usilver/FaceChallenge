@@ -1,4 +1,4 @@
-public class Challenge18_isArrayPalindrome {
+class checkPalindromeArray {
     public static void main(String[] args) {
         int[] myArray = ArrayUtility.inputArray();
         boolean isArrayPalindrome = isArrayPalindrome(myArray);

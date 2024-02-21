@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge20_Search_An_Element_In_A_2D_Array {
+class SearchElementIn2DArray {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         System.out.println("Welcome to 2D Search");

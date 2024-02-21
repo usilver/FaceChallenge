@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge1_Create_Table {
+class CreateTable {
     public static void main(String[] args) {
         greetUser();
 //        multiplicationTable();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge12_Triangle_Star_Patterns {
+class TriangleStarPatterns {
     public static void main(String[] args) {
 
         Scanner userInput = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge2_Add_Odd_Num_Up_To_N_number {
+class AddOddNumberUpToN {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         System.out.println("Add odd numbers from 1 to N");

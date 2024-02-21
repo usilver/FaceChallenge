@@ -1,6 +1,4 @@
-import java.sql.SQLOutput;
-
-public class Challenge16_isArray_Sorted {
+class isArraySorted {
     public static void main(String[] args) {
         int[] userArray = ArrayUtility.inputArray();
         boolean isIncreasing = isIncreasing(userArray);

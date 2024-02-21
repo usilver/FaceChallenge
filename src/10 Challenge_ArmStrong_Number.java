@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge10_ArmStrong_Number {
+class isArmStrongNumber {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         System.out.print("Check Armstrong Number:\n");

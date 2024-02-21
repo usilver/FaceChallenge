@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge14_Occurrence {
+class CheckElementOccurrence {
     public static void main(String[] args) {
         System.out.println("Check Occurrence");
         int[] userArray = ArrayUtility.inputArray();

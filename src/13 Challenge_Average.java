@@ -1,4 +1,4 @@
-public class Challenge13_Average {
+class FindAverage {
     public static void main(String[] args) {
         System.out.println("Welcome to Array sum and average");
         int[] userArray = ArrayUtility.inputArray();

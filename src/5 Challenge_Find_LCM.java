@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge5_Find_LCM {
+class FindLCM {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         System.out.print("Find LCM\n");
