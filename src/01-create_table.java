@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import static java.lang.StringTemplate.STR;
+
 class CreateTable {
     public static void main(String[] args) {
         greetUser();
